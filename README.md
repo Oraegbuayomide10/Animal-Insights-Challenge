@@ -1,6 +1,6 @@
 # Animal-Insights-Challenge
 
-This is the 1st Winning solution to the Animal Insights Challenge- ZINDI
+This is the  Winning solution to the Animal Insights Challenge- ZINDI
 
 # Summary of Approach
 
